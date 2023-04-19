@@ -1,5 +1,5 @@
 <h1>3x5-font</h1>
-A 3x5 font I made.
+A 3x5 font I made. (tff file)
 <h2>screen shots</h2>
 <img src="screenshot.png" width="100%">
 <h2>notice</h2>
